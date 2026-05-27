@@ -26,7 +26,7 @@ Módulos Integrados
 *  Expo Vector Icons (Ionicons) (Interface visual e iconografia)
 
 ---
-📂 Estrutura de Pastas Sugerida
+📂 Estrutura de Pastas
 
 ```text
 .
